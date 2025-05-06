@@ -1,4 +1,4 @@
-from codes import TransmissionTree
+from codes.TransmissionTree import TransmissionTree
 
 def test_generated_trees():
     test_A = [                                                                   ##### newick: (((X_3)Z)Y)X;
